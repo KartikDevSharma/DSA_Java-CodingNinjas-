@@ -19,10 +19,98 @@ This repository serves as a comprehensive resource for anyone enrolled in or int
 
 ## Repository Structure
 
-The repository is organized into two main folders:
 
-1. **Introduction to Java**: This folder contains solutions to the problems covered in the "Introduction to Java" course.
-2. **Data Structures in Java**: This folder houses solutions to the problems related to data structures and algorithms covered in the "Data Structures in Java" course.
+Welcome to the Java and DSA Learning Repository! This repository contains a structured breakdown of topics and assignments designed to help you get started with Java and deepen your understanding of Data Structures and Algorithms (DSA) in Java.
+
+## Introduction to Java
+
+### Week 1
+- Getting started with Java
+- How data is stored
+- Conditionals and loops
+
+### Week 2
+- Pattern 1
+- Pattern 2
+
+### Week 3
+- Operators and for loop
+- Test 1
+- Function variable and their scope
+
+### Week 4
+- Arrays 1
+- Arrays 2
+
+### Week 5
+- Strings
+- 2D Arrays
+- Test 2
+
+## DSA in Java
+
+### Week 1
+- OOPS 1
+- OOPS 2
+
+### Week 2
+- Recursion 1
+- Recursion 2
+- Recursion assignments
+
+### Week 3
+- Time and space complexity
+- Test 1
+
+### Week 4
+- Linked list 1
+- Linked list 2
+- OOPS 3
+
+### Week 5
+- Queues
+- Stacks
+
+### Week 6
+- Test
+
+### Week 7
+- Binary trees 1
+- Binary trees 2
+
+### Week 8
+- BST 1
+- BST 2
+- Trees
+
+### Week 9
+- Hashmaps
+- Test 3
+
+### Week 10
+- Priority queues 1
+
+### Week 11
+- Priority queues 2
+- Tries and Huffman coding
+
+### Week 12
+- Backtracking
+
+### Week 13
+- DP-1
+- DP-2
+- OOPS-4
+
+### Week 14
+- Graphs-1
+- Graphs-2
+- Assignment: Graphs
+
+### Bonus Assignment
+- BST and Binary tree
+
+
 
 ## Disclaimer
 
