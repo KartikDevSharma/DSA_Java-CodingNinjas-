@@ -1,8 +1,12 @@
+<img  width="100%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/coding%20ninjas.svg">
 
-# CodingNinjas Java DSA Premium Solution
 
-[![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
+
+
+<h1 align="center">   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://github.com/KartikDevSharma/KartikDevSharma/raw/main/Files/Techstack/java-original-wordmark.svg" alt="Java" height="50" /></a>   Java DSA Premium Solution</h1>
+
 [![Course Dates](https://img.shields.io/badge/course%20dates-July%202022%20to%20November%202022-blue)](https://www.codingninjas.com/)
+
 
 Welcome to the CodingNinjas Java DSA Premium Solution repository! This repository contains my solutions to the coding problems and assignments from the "Introduction to Java" and "Data Structures in Java" courses offered by Coding Ninjas.
 
@@ -123,6 +127,7 @@ Please note the following points regarding the usage of this repository:
 > **Note**: Before jumping onto the solutions, I highly encourage you to try solving the problems yourself first. This will aid in your learning and understanding of the concepts.
 
 ## License
+[![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in this repository for personal or commercial purposes, as long as you include the original copyright notice and the MIT License file.
 
